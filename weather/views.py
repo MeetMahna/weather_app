@@ -7,7 +7,7 @@ from .forms import CityForm
 
 
 def func(response):
-    url = 'http://api.openweathermap.org//data/2.5/weather?q={}&units=metric&appid=b1f582b8b1812f22ce8ec92ad56d412f'
+    url = 'http://api.openweathermap.org//data/2.5/weather?q={}&units=metric&appid=apiid_here'
 
     err_msg = ''
     message = ''
